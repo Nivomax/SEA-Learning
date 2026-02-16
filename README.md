@@ -1,6 +1,6 @@
 # Portfolio BTS SIO - Maxime MADUREIRA
-https://nivomax.github.io/Portfolio-BTS/
-<img src ="./assets/img/mockup.png">
+### URL du site : https://finalmb.great-site.net
+<img src ="./img/home.png">
 
 ## A propos du projet
 Ce portfolio est développé dans le cadre de mon épreuve de BTS SIO . Il vise à présenter mes compétences techniques ainsi que les projets sur lesquels j'ai travaillé au cours de ma formation. Ce site est une vitrine de mon savoir-faire en informatique.
