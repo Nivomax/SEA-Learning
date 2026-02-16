@@ -1,4 +1,4 @@
-# Portfolio BTS SIO - Maxime MADUREIRA
+# SEA Learning - Maxime MADUREIRA
 ### URL du site : https://finalmb.great-site.net
 <img src ="./img/home.png">
 
