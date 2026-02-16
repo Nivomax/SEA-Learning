@@ -2,19 +2,35 @@
 ### URL du site : https://finalmb.great-site.net
 <img src ="./img/home.png">
 
+<br>
+
 ## A propos du projet
-Ce portfolio est développé dans le cadre de mon épreuve de BTS SIO . Il vise à présenter mes compétences techniques ainsi que les projets sur lesquels j'ai travaillé au cours de ma formation. Ce site est une vitrine de mon savoir-faire en informatique.
+Développement d'un site e-learning avec wordpress
+
+<br>
 
 ## Technologies utilisées
 - PHP
 - CSS
 - Wordpress
+  
+<br>
 
 ## Fonctionnalités principales
-- Présentation personnelle et parcours scolaire et professionnel
-- Galerie de projets développés au cours du BTS
-- Détails sur les compétences techniques acquises
 
+### Proposer des cours d'informatique (leçons + exercices + quiz) :
+<img src ="./img/cours.png">
+
+<br>
+
+### Dashboard avec suivis de progression :
+
+<br>
+
+### Pluggin sandbox (coder) :
+<img src ="./img/exo.png">
+
+<br>
 
 ## Contact
 Pour toute question ou demande, vous pouvez me contacter via:
