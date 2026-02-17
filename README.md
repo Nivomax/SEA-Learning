@@ -33,7 +33,7 @@ L’objectif est de fournir :
 
 <img src="./img/cours.png" alt="Page des cours">
 
-
+<br>
 
 ### 📊 Tableau de bord utilisateur
 - Suivi de progression
