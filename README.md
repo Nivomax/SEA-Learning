@@ -1,6 +1,6 @@
 # SEA Learning
 
-Plateforme e-learning développée avec WordPress, permettant l’apprentissage du code à travers des leçons interactives, des exercices pratiques et des quiz d’évaluation.
+Plateforme e-learning, permettant l’apprentissage du code à travers des leçons, des exercices et des quiz d’évaluation.
 
 🔗 **Lien du site :** https://finalmb.great-site.net  
 🔗 **Lien de la présentation :** pdf 
