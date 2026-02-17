@@ -58,8 +58,8 @@ L’objectif est de fournir :
 - **WordPress**
 - **PHP**
 - **CSS**
-- Plugins personnalisés
-- Base de données MySQL
+- **Plugins personnalisés**
+- **Base de données MySQL**
 
 <br>
 
