@@ -1,4 +1,4 @@
-# SEA Learning
+# SEA Learning - version desktop (non responsive)
 
 Plateforme e-learning, permettant l’apprentissage du code à travers des leçons, des exercices et des quiz d’évaluation.
 
