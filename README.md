@@ -11,7 +11,7 @@ Plateforme e-learning, permettant l’apprentissage du code à travers des leço
 
 <br>
 
-## 🎯 Objectif du projet
+## Objectif du projet
 
 SEA Learning est une plateforme de formation en ligne conçue pour proposer des cours d’informatique structurés et progressifs.  
 
@@ -24,9 +24,9 @@ L’objectif est de fournir :
 
 <br>
 
-## 🚀 Fonctionnalités principales
+## Fonctionnalités principales
 
-### 📚 Cours structurés
+### Cours structurés
 - Leçons organisées par modules
 - Exercices pratiques intégrés
 - Quiz d’évaluation pour valider les acquis
@@ -35,7 +35,7 @@ L’objectif est de fournir :
 
 <br>
 
-### 📊 Tableau de bord utilisateur
+### Tableau de bord utilisateur
 - Suivi de progression
 - Visualisation des cours complétés
 - Accès rapide aux modules en cours
@@ -44,7 +44,7 @@ L’objectif est de fournir :
 
 <br>
 
-### 💻 Sandbox de codage
+### Sandbox de codage
 - Plugin personnalisé de type "Sandbox"
 - Environnement permettant d’écrire et tester du code directement sur la plateforme
 - Validation dynamique des exercices
@@ -53,7 +53,7 @@ L’objectif est de fournir :
 
 <br>
 
-## 🛠 Technologies utilisées
+## Technologies utilisées
 
 - **WordPress**
 - **PHP**
@@ -63,7 +63,7 @@ L’objectif est de fournir :
 
 <br>
 
-## 📬 Contact
+## Contact
 
-📧 maxime.madureira@gmail.com  
+🔗 maxime.madureira@gmail.com  
 🔗 https://www.linkedin.com/in/maxime-madureira
