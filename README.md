@@ -1,40 +1,78 @@
-# SEA Learning - Maxime MADUREIRA
-### URL du site : https://finalmb.great-site.net
-<img src ="./img/home.png">
+# SEA Learning
+
+Plateforme e-learning développée avec WordPress, permettant l’apprentissage du code à travers des leçons interactives, des exercices pratiques et des quiz d’évaluation.
+
+🔗 **Lien du site :** https://finalmb.great-site.net  
+🔗 **Lien de la présentation :** pdf 
+
+<img src="./img/home.png" alt="Accueil SEA Learning">
+
+
 
 <br>
 
-## A propos du projet
-Développement d'un site e-learning avec wordpress
+## 🎯 Objectif du projet
+
+SEA Learning est une plateforme de formation en ligne conçue pour proposer des cours d’informatique structurés et progressifs.  
+
+L’objectif est de fournir :
+- Un parcours pédagogique clair
+- Des exercices pratiques directement intégrés à la plateforme
+- Un suivi personnalisé de la progression des utilisateurs
+
+
 
 <br>
 
-## Technologies utilisées
-- PHP
-- CSS
-- Wordpress
-  
-<br>
+## 🚀 Fonctionnalités principales
 
-## Fonctionnalités principales
+### 📚 Cours structurés
+- Leçons organisées par modules
+- Exercices pratiques intégrés
+- Quiz d’évaluation pour valider les acquis
 
-### Proposer des cours d'informatique (leçons + exercices + quiz) :
-<img src ="./img/cours.png">
+<img src="./img/cours.png" alt="Page des cours">
 
-<br>
 
-### Dashboard avec suivis de progression :
 
-<br>
+### 📊 Tableau de bord utilisateur
+- Suivi de progression
+- Visualisation des cours complétés
+- Accès rapide aux modules en cours
 
-### Pluggin sandbox (coder) :
-<img src ="./img/exo.png">
+<img src="./img/dashboard.png" alt="Dashboard utilisateur">
 
 <br>
 
-## Contact
-Pour toute question ou demande, vous pouvez me contacter via:
+### 💻 Sandbox de codage
+- Plugin personnalisé de type "Sandbox"
+- Environnement permettant d’écrire et tester du code directement sur la plateforme
+- Validation dynamique des exercices
 
-Email : maxime.madureira@gmail.com
-LinkedIn : www.linkedin.com/in/maxime-madureira
+<img src="./img/exo.png" alt="Exercice avec sandbox">
 
+<br>
+
+## 🛠 Technologies utilisées
+
+- **WordPress**
+- **PHP**
+- **CSS**
+- Plugins personnalisés
+- Base de données MySQL
+
+<br>
+
+## 👤 Gestion des utilisateurs
+
+- Création de compte
+- Authentification sécurisée
+- Suivi individualisé de la progression
+- Gestion des rôles (administrateur / utilisateur)
+
+<br>
+
+## 📬 Contact
+
+📧 maxime.madureira@gmail.com  
+🔗 https://www.linkedin.com/in/maxime-madureira
