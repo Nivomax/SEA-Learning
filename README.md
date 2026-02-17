@@ -3,7 +3,7 @@
 Plateforme e-learning, permettant l’apprentissage du code à travers des leçons, des exercices et des quiz d’évaluation.
 
 🔗 **Lien du site :** https://finalmb.great-site.net  
-🔗 **Lien de la présentation :** pdf 
+🔗 **Présentation du projet :** [Slide_E-Learning.pdf](./Slide_E-Learning.pdf)
 
 <img src="./img/home.png" alt="Accueil SEA Learning">
 
