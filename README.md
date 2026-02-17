@@ -58,17 +58,8 @@ L’objectif est de fournir :
 - **WordPress**
 - **PHP**
 - **CSS**
-- **Plugins personnalisés**
+- **Plugins personnalisés "sandbox"**
 - **Base de données MySQL**
-
-<br>
-
-## 👤 Gestion des utilisateurs
-
-- Création de compte
-- Authentification sécurisée
-- Suivi individualisé de la progression
-- Gestion des rôles (administrateur / utilisateur)
 
 <br>
 
